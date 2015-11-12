@@ -14,7 +14,6 @@ Point :: Point (void){
     offAngles[5] = 275;
     offAngles[6] = 145;
     offAngles[7] = 323;
-    //Point(90, 4, 8);
 }
 
 Point :: Point (int posRadian, int posHeight, int posDistance){

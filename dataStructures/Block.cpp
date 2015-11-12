@@ -1,6 +1,4 @@
-
 #include "Block.h"
-//*********************point class************************//
 
 Block :: Block (int xi, int yi, int zi, int sizei, int heighti){
     x = xi;
